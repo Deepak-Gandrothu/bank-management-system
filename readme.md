@@ -9,44 +9,41 @@
 The Bank Management System is a Java-based desktop application designed to perform basic banking operations. The application allows users to create an account, log in securely, and perform different banking transactions.
 
 
-
 🚀 Features
 
 
+--> User account registration
 
-\--> User account registration
+--> User login
 
-\--> User login
+--> Deposit money
 
-\--> Deposit money
+--> Withdraw money
 
-\--> Withdraw money
+--> Balance enquiry
 
-\--> Balance enquiry
+--> Fast cash withdrawal
 
-\--> Fast cash withdrawal
+--> Mini statement
 
-\--> Mini statement
+--> PIN change
 
-\--> PIN change
-
-\--> Transaction management
-
+--> Transaction management
 
 
-\## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 
 
-\-->Java
+-->Java
 
-\-->Java Swing — Graphical User Interface
+-->Java Swing — Graphical User Interface
 
-\-->JDBC — Database connectivity
+-->JDBC — Database connectivity
 
-\-->MySQL — Database
+-->MySQL — Database
 
-\-->Apache NetBeans — Development environment
+-->Apache NetBeans — Development environment
 
 
 
@@ -104,25 +101,20 @@ Bank Management System
 
 └── .gitignore
 
-```
 
 
 
-&#x20;⚙️ Requirements
-
-
+⚙️ Requirements
 
 Before running the project, install:
 
+--> Java JDK
 
+--> MySQL
 
-\--> Java JDK
+-->Apache NetBeans
 
-\--> MySQL
-
-\-->Apache NetBeans
-
-\--> MySQL Connector/J
+--> MySQL Connector/J
 
 
 
@@ -130,75 +122,59 @@ Before running the project, install:
 
 
 
-1\. Clone this repository.
+1. Clone this repository.
 
-2\. Open the project in Apache NetBeans.
+2. Open the project in Apache NetBeans.
 
-3\. Create and configure the required MySQL database.
+3. Create and configure the required MySQL database.
 
-4\. Update the database connection configuration in the project.
+4. Update the database connection configuration in the project.
 
-5\. Add the MySQL Connector/J library to the project if required.
+5. Add the MySQL Connector/J library to the project if required.
 
-6\. Build and run the project from NetBeans.
+6. Build and run the project from NetBeans.
 
 
 
 🗄️ Database
 
-
-
 The application uses MySQL for storing user and transaction information.
-
-
 
 JDBC is used to connect the Java application with the MySQL database.
 
 
-
-
-
 🎯 Learning Outcomes
-
-
 
 Through this project, I gained practical experience with:
 
 
 
-\--> Java programming
+--> Java programming
 
-\--> Object-Oriented Programming
+--> Object-Oriented Programming
 
-\-->Java Swing
+-->Java Swing
 
-\--> JDBC
+--> JDBC
 
-\--> MySQL
+--> MySQL
 
-\--> Database connectivity
+--> Database connectivity
 
-\--> Git and GitHub
+--> Git and GitHub
 
-\-->Building a real-world desktop application
+-->Building a real-world desktop application
 
 
 
-&#x20;👨‍💻 Author
-
+👨‍💻 Author
 
 
 Deepak
 
-
-
 B.Tech — Artificial Intelligence and Machine Learning
 
-
-
 📄 License
-
-
 
 This project is intended for educational and learning purposes.
 
